@@ -18,7 +18,7 @@ Fazer o redesign para centralizar de forma clara e acessível as informações d
 
 ## 💻 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript 
 - Design responsivo com media queries
